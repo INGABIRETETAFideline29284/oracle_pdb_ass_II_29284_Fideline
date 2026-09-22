@@ -205,6 +205,6 @@ Conclusion:
 
 The Oracle PDB Assignment II was completed using Oracle Database 21c Express Edition. The required PDB "FI_PDB_29284" was created with the specified administrative user and successfully opened. A temporary PDB, "FI_TO_DELETE_PDB_29284", was also created, verified, and completely deleted. Oracle Enterprise Manager Express was used to access and display the Oracle database environment and PDB information.
 
-Repository Link: []
+Repository Link: [https://github.com/INGABIRETETAFideline29284/oracle_pdb_ass_II_29284_Fideline]
 PDB Name Created: [FI_PDB_29284]
 Issues Encountered: [Yes]
